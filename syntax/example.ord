@@ -1,0 +1,30 @@
+[ORDER_NAME]
+
+[ORDER_CONTENTS]
+[BEGIN]
+[ENTRY_1 BEGIN]
+    [NAME]
+    [PRICE]
+    [OPTIONS BEGIN]
+        [ENTRY BEGIN]
+            [NAME]
+            [PRICE]
+        [ENTRY END]
+        .
+        .
+        .
+    [OPTIONS END]
+[ENTRY_1 END]
+.
+.
+.
+[END]
+
+[PAYMENT]
+[BEGIN]
+[PAYMENT_INFO_1]
+.
+.
+.
+[END]
+

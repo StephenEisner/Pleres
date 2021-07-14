@@ -1,0 +1,29 @@
+[RESTAURANT_NAME]
+
+[MENU]
+[BEGIN]
+[CATEGORY BEGIN]
+    [ENTRY BEGIN]
+        [NAME]
+        [PRICE]
+        [OPTIONS BEGIN]
+            [ENTRY BEGIN]
+                [NAME]
+                [PRICE]
+            [ENTRY END]
+            .
+            .
+            .
+        [OPTIONS END]
+    [ENTRY END]
+    .
+    .
+    .
+[CATEGORY END]
+.
+.
+.
+[END]
+
+
+
